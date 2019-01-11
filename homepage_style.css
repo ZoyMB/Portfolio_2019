@@ -1,0 +1,19 @@
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.navbar-toggler {
+  width: 25px;
+   height: 5px;
+   background-color: black;
+   margin: 6px 0;
+}
